@@ -1,0 +1,1 @@
+# my_app.amplication_sample_project
